@@ -1,5 +1,6 @@
 # ETL
 A project where I was assigned to create an ETL pipeline and perform visualization on it using PowerBI
+
 1. Data Loading and Exploration:
    - The code loads a CSV file containing car prediction data using pandas.
    - It prints the column names and the first few rows of the dataset to understand its structure.
